@@ -10,7 +10,7 @@
   <VisualBasic.Settings>
     <x:Null />
   </VisualBasic.Settings>
-  <sap:VirtualizedContainerService.HintSize>970,1246</sap:VirtualizedContainerService.HintSize>
+  <sap:VirtualizedContainerService.HintSize>970,1368</sap:VirtualizedContainerService.HintSize>
   <sap2010:WorkflowViewState.IdRef>LogInfoMessages_1</sap2010:WorkflowViewState.IdRef>
   <TextExpression.NamespacesForImplementation>
     <scg:List x:TypeArguments="x:String" Capacity="42">
@@ -91,7 +91,7 @@
       <AssemblyReference>System.Runtime.Serialization.Primitives</AssemblyReference>
     </scg:List>
   </TextExpression.ReferencesForImplementation>
-  <Sequence DisplayName="LogInfoMessages" sap:VirtualizedContainerService.HintSize="512,1181" sap2010:WorkflowViewState.IdRef="Sequence_1">
+  <Sequence DisplayName="LogInfoMessages" sap:VirtualizedContainerService.HintSize="512,1303" sap2010:WorkflowViewState.IdRef="Sequence_1">
     <Sequence.Variables>
       <Variable x:TypeArguments="x:String" Name="strLogReportName" />
       <Variable x:TypeArguments="x:Boolean" Name="boolPathExist" />
@@ -152,6 +152,7 @@
         </Sequence>
       </If.Else>
     </If>
-    <ui:AppendLine File="{x:Null}" DisplayName="GenerateLogMessage" FileName="[in_FileAuditLogPath+&quot;\&quot;+strLogReportName]" sap:VirtualizedContainerService.HintSize="450,156" sap2010:WorkflowViewState.IdRef="AppendLine_2" Text="[Now.ToString(&quot;dd/MM/yyy HH:mm:ss tt&quot;)+&quot;,&quot;+in_XamlName+&quot;,&quot;+in_strStatus+&quot;,&quot;+in_strTransactionName+&quot;,&quot;+in_Source+&quot;,&quot;+in_LogInfoMessage]" UseDefaultEncoding="False" />
+    <ui:AppendLine File="{x:Null}" DisplayName="GenerateLogMessage" FileName="[in_FileAuditLogPath+&quot;\&quot;+strLogReportName]" sap:VirtualizedContainerService.HintSize="450,165" sap2010:WorkflowViewState.IdRef="AppendLine_2" Text="[Now.ToString(&quot;dd/MM/yyy HH:mm:ss tt&quot;)+&quot;,&quot;+in_XamlName+&quot;,&quot;+in_strStatus+&quot;,&quot;+in_strTransactionName+&quot;,&quot;+in_Source+&quot;,&quot;+in_LogInfoMessage]" UseDefaultEncoding="False" />
+    <WriteLine DisplayName="Write Line" sap:VirtualizedContainerService.HintSize="450,113" sap2010:WorkflowViewState.IdRef="WriteLine_1" Text="CLONE OF P[ROJECT" />
   </Sequence>
 </Activity>
