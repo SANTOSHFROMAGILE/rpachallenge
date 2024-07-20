@@ -1,0 +1,34 @@
+﻿Date_time,Xaml_Name,Status,UserName,LogSource,Comments
+13/07/2024 18:37:54 PM,LogInfo,Excel File Downoaded,,Log,Succesful
+13/07/2024 18:37:56 PM,LogInfo,Get the transaction item,,Log,Succesful
+13/07/2024 18:37:58 PM,LogInfo,Process stareted ,,Log,Process Started
+13/07/2024 18:38:24 PM,LogInfo,transaction item1,,Log,Succesful
+13/07/2024 18:38:26 PM,LogInfo,Get the transaction item,,Log,Succesful
+13/07/2024 18:38:27 PM,LogInfo,Process stareted ,,Log,Process Started
+13/07/2024 18:38:53 PM,LogInfo,transaction item2,,Log,Succesful
+13/07/2024 18:38:55 PM,LogInfo,Get the transaction item,,Log,Succesful
+13/07/2024 18:38:56 PM,LogInfo,Process stareted ,,Log,Process Started
+13/07/2024 18:39:22 PM,LogInfo,transaction item3,,Log,Succesful
+13/07/2024 18:39:23 PM,LogInfo,Get the transaction item,,Log,Succesful
+13/07/2024 18:39:24 PM,LogInfo,Process stareted ,,Log,Process Started
+13/07/2024 18:39:50 PM,LogInfo,transaction item4,,Log,Succesful
+13/07/2024 18:39:52 PM,LogInfo,Get the transaction item,,Log,Succesful
+13/07/2024 18:39:53 PM,LogInfo,Process stareted ,,Log,Process Started
+13/07/2024 18:40:19 PM,LogInfo,transaction item5,,Log,Succesful
+13/07/2024 18:40:20 PM,LogInfo,Get the transaction item,,Log,Succesful
+13/07/2024 18:40:21 PM,LogInfo,Process stareted ,,Log,Process Started
+13/07/2024 18:40:47 PM,LogInfo,transaction item6,,Log,Succesful
+13/07/2024 18:40:48 PM,LogInfo,Get the transaction item,,Log,Succesful
+13/07/2024 18:40:50 PM,LogInfo,Process stareted ,,Log,Process Started
+13/07/2024 18:41:16 PM,LogInfo,transaction item7,,Log,Succesful
+13/07/2024 18:41:17 PM,LogInfo,Get the transaction item,,Log,Succesful
+13/07/2024 18:41:18 PM,LogInfo,Process stareted ,,Log,Process Started
+13/07/2024 18:41:44 PM,LogInfo,transaction item8,,Log,Succesful
+13/07/2024 18:41:46 PM,LogInfo,Get the transaction item,,Log,Succesful
+13/07/2024 18:41:47 PM,LogInfo,Process stareted ,,Log,Process Started
+13/07/2024 18:42:13 PM,LogInfo,transaction item9,,Log,Succesful
+13/07/2024 18:42:14 PM,LogInfo,Get the transaction item,,Log,Succesful
+13/07/2024 18:42:16 PM,LogInfo,Process stareted ,,Log,Process Started
+13/07/2024 18:42:42 PM,LogInfo,transaction item10,,Log,Succesful
+13/07/2024 18:42:44 PM,LogInfo,Get the transaction item,,Log,Succesful
+13/07/2024 18:42:45 PM,LogInfo,No transaction item,,Log,No Item To process
